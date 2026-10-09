@@ -1,6 +1,6 @@
-👋 Hi, I'm Athira Mohan
+                                                  👋 Hi, I'm Athira Mohan
 
-📊 Data Analyst | Power BI | SQL | Python | Excel
+                                      📊 Data Analyst | Power BI | SQL | Python | Excel
 
 👩‍💻 About Me
 
