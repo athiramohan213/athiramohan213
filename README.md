@@ -23,19 +23,41 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
 ## 🎓 Certifications
 
-- **Python Data Analytics with Power BI** — National Council for Technology and Training
-- **Python Data Analytics with Power BI** — Luminar Technolab
+<table>
+  <tr>
+    <td align="center">
+      <strong>National Council for Technology and Training</strong><br>
+      Python Data Analytics with Power BI
+    </td>
+    <td align="center">
+      <strong>Luminar Technolab</strong><br>
+      Python Data Analytics with Power BI
+    </td>
+  </tr>
+</table>
 
 ## 📊 Projects
 
 - ⚡ Electric Vehicle Sales Analysis — Power BI
 - 🏥 Healthcare Analytics Dashboard — Power BI
 - 📈 Excel Data Analysis
+- 🗄️ SQL Data Analysis — MySQL
+
 
 ## 🤝 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/athiramohan-da
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/athiramohan-da">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:athiramohan.da@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
