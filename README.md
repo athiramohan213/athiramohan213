@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Athira Mohan
+👋 Hi, I'm Athira Mohan
 
-##📊 Data Analyst | Power BI | SQL | Python | Excel
+📊 Data Analyst | Power BI | SQL | Python | Excel
 
-## 👩‍💻 About Me
+👩‍💻 About Me
 
 - 🎓 Master's Degree in Computer Science
 - 📊 Data Analyst
@@ -11,7 +11,7 @@
 - 💼 Open to Freelance Data Analytics Projects
 - 📊 Available for Power BI Dashboards, Excel Reporting, SQL Analysis and Data Visualization
 
-## 🛠️ Skills
+🛠️ Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
-## 🎓 Certifications
+🎓 Certifications
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-## 📊 Projects
+📊 Projects
 
 - ⚡ Electric Vehicle Sales Analysis — Power BI
 - 🏥 Healthcare Analytics Dashboard — Power BI
