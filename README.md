@@ -48,10 +48,7 @@
 - 📈 Excel Data Analysis
 - 🗄️ SQL Data Analysis — MySQL
 
-
-## 🤝 Connect With Me
-
-## 🤝 Connect with Me
+ 🤝 Connect with Me
 
 <p align="left">
   <a href="www.linkedin.com/in/athiramohan-da">
